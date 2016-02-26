@@ -9,15 +9,15 @@
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 ### Running the program
 
-    source("./run_analysis.R")
-    download()
-    run.analysis()
+######    source("./run_analysis.R")
+######    download()
+######    run.analysis()
     
     This will download the data and run the run analysis function
     
     If the data is already downloaded, copy to the current working directory and run as below
     
-    source("./run_analysis.R")
-    run.analysis()
+######    source("./run_analysis.R")
+######    run.analysis()
      
 

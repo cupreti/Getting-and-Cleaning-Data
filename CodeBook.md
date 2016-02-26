@@ -1,3 +1,9 @@
+## Tidy Data Set
+
+In order to get the tidy dataset, first of all both the train and test data has been merged into a single data set. Using regular expression data are filtered.
+
+### Tidy dataset variables
+
 * subject	
 * tBodyAccMeanX
 * tBodyAccMeanY
